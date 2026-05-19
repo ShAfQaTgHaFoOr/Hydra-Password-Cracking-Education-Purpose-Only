@@ -1,8 +1,4 @@
-Here is an optimized, highly efficient, and professionally formatted version of your README file.
 
-The original was a bit cluttered with emojis and redundant terminal navigation steps (like changing directories multiple times). This version uses a clean Markdown structure, standardizes the formatting, and optimizes the commands so users can copy and paste with maximum efficiency.
-
----
 
 # ⚡ Hydra Lab: HTTP Brute-Force Demo
 
